@@ -3,4 +3,5 @@
   border: 2px dotted orange;
   height: 32px;
   width: 120px;
+  box-shadow: 0 1px 16px #000;
 }
