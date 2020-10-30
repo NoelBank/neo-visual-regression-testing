@@ -1,0 +1,6 @@
+.Button {
+  background: blue;
+  border: 2px dotted orange;
+  height: 32px;
+  width: 120px;
+}
