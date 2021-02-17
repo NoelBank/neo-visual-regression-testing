@@ -5,7 +5,7 @@ export class Button extends Component {
   render() {
     return (
       <button className="Button" {...this.props}>
-        {this.props.children}xD
+        <span>{this.props.children}xD</span>
       </button>
     );
   }
