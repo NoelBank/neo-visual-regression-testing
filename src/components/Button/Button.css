@@ -1,9 +1,9 @@
 .Button {
   background: blue;
-  border: 2px solid orange;
+  border: 2px dotted orange;
   margin-top: 2rem;
 
-  height: 48px;
+  height: 32px;
   width: 120px;
-  box-shadow: 0 1px 16px #000;
+  box-shadow: 0 2px 16px #000;
 }
